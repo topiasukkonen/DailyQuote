@@ -6,7 +6,7 @@ Sovellukseen on mahdollista syöttää omia "quoteja" (vap.suom. lainauksia). Si
 
 
 
-# työaikakirjanpito
+# Työaikakirjanpito
 
 | päivä | aika | mitä tein  |
 | :----:|:-----| :-----|
